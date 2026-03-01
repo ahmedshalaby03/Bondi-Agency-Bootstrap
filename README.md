@@ -1,19 +1,21 @@
-Bondi Theme - Modern Agency Template 🌊
+# 🌊 Bondi Theme | Modern Agency Template
 
-تصميم واجهة مستخدم (Frontend) كاملة لشركة إبداعية، يعتمد بشكل أساسي على قوة الـ Bootstrap لتقديم تجربة مستخدم سلسة ومتجاوبة تماماً.
+تصميم واجهة مستخدم (Frontend) كاملة لشركة إبداعية، يجمع بين الأناقة في التصميم والقوة في الأداء. يعتمد المشروع بشكل أساسي على **Bootstrap 5** لتقديم تجربة مستخدم سلسة ومتجاوبة تماماً مع كافة الشاشات.
 
-✨ المميزات الرئيسية:
-Modern Hero Section: قسم رئيسي جذاب بلمسة "Dark Theme" وشعار "Taste the Creativity".
+---
 
-Filterable Portfolio: معرض أعمال مقسم لفئات (Design, Code, Photo, App) لسهولة التصفح.
+### ✨ المميزات الرئيسية
+* **Modern Hero Section**: قسم رئيسي جذاب بلمسة "Dark Theme" وشعار "Taste the Creativity" يعطي انطباعاً احترافياً فورياً.
+* **Filterable Portfolio**: معرض أعمال ذكي مقسم لفئات (Design, Code, Photo, App) يسهل على المستخدم تصفح المشاريع حسب التخصص.
+* **Service Features**: عرض خدمات الشركة بأسلوب عصري ومنظم باستخدام نظام الـ **Grid System** المتقدم.
+* **Fully Responsive**: الموقع متوافق بنسبة 100% مع جميع الأجهزة (Mobile, Tablet, Desktop) لضمان وصول مثالي للجمهور.
 
-Service Features: عرض خدمات الشركة بأسلوب عصري ومنظم باستخدام الـ Grid System.
+---
 
-Fully Responsive: الموقع متوافق 100% مع جميع الأجهزة (Mobile, Tablet, Desktop) بفضل الـ Bootstrap.
+### 🛠 التكنولوجيات المستخدمة
 
-🛠 التكنولوجيات المستخدمة:
-HTML5 & CSS3 لبناء الهيكل والتنسيقات المخصصة.
-
-Bootstrap 5: الفريم ورك الأساسي للـ Layout والـ Responsiveness.
-
-Google Fonts: لتنسيق النصوص بشكل احترافي.
+| التقنية | الاستخدام |
+| :--- | :--- |
+| **HTML5 & CSS3** | بناء الهيكل الأساسي والتنسيقات المخصصة. |
+| **Bootstrap 5** | الفريم ورك الأساسي للـ Layout والـ Responsiveness. |
+| **Google Fonts** | إضفاء لمسة جمالية على النصوص وتنسيقها بشكل احترافي. |
